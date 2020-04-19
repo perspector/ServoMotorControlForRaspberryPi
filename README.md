@@ -1,5 +1,5 @@
 # ServoMotorControlForRaspberryPi
-This simple Python code will let you control servo motors easily!
+This simple Python code will let you control a servo motor easily!
 Look at your servo motor, or your servo motor datasheet.
 Find the voltage needed, (mine was 6 volts), and get a battery with that voltage.
 If your servo motor needs 5 volts, you can plug it directly into your Raspberry Pi 3B+.
